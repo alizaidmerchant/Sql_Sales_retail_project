@@ -10,7 +10,7 @@ Exploratory Data Analysis (EDA): Perform basic exploratory data analysis to unde
 
 Business Analysis: Use SQL to answer specific business questions and derive insights from the sales data.
 
-Findings
+Findings:
 
 Customer Demographics: The dataset includes customers from various age groups, with sales distributed across different categories such as Clothing and Beauty.
 
